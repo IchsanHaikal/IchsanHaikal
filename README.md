@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IchsanHaikal
-- 👀 I’m interested in Data Science, Machine Learning, Artificial Intellegence
+- 👀 I’m interested in Artificial Intellegence, Data Analyst, Data Science, Machine Learning
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on company data
 - 📫 How to reach me: ichsannhaikal@gmail.com
